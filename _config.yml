@@ -17,7 +17,7 @@ address:
   - line: A22222
   # Feel free to add more lines here 
 telephone: +++0982301803
-copyright: @headerlabs.com
+copyright: headerlabs.com
 
 # API settings
 google_api_key: keyof google
